@@ -1,0 +1,6 @@
+plans
+users
+categories
+notes
+tags
+tagsdetails
